@@ -7,8 +7,5 @@
     "test": "./node_modules/.bin/jasmine-node spec"
   },
   "author": "Abs",
-  "license": "ISC",
-  "dependencies": {
-    "jasmine-node": "^1.14.5"
-  }
+  "license": "ISC"
 }
